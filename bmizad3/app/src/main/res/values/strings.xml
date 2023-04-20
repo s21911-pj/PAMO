@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">bmi2</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="bmi">BMI</string>
+    <string name="enter_age">Enter your age </string>
+    <string name="Energy_Burn">Energy Burn</string>
+    <string name="paragraph">
+        Receipe for pancakes\n
+    Ingredients: 1egg, 1 cup of floor, 1/2 glass of milk, 1 teaspoon of bakin powder, a pinch of salt, some still or sparking water, oil, jam/cheese
+    Take a bowl and beat an egg, then combine it with flour, milk and water.\n
+    STEP 2\n
+    Add salt and baking powder, after that combine it gently with all the ingredients.\n
+    STEP 3\n
+     Put the bowl with the dough aside for a few minutes, so that it gets the right texture.\n
+    STEP 4\n
+    In the meantime pour some oil over the frying pan.\n
+    STEP 5\n
+    Once the frying pan is hot enough, you can start making pancakes. First, fry a pancake on its one side till it turns light brown, and then flip it over. Fry it on the other side as long as you observe it is ready to serve.\n
+    STEP 6\n
+    Put the pancake on the plate and fill it with jam, cheese or whaterver you prefer.\n
+    STEP 7\n
+    Then roll it and serve with some fruit, chocolate, or even ice cream.\n
+    Enjoy your meal!\n
+
+        French Fries\n
+    Ingredients: 1 kg potatoes, vegetable oil for deep frying, e.g. sunflower, salt \n
+    STEP 1\n
+    In the pot well to heat oil up (to the temperature of 190 steps), to height 10 - 15 cm (not more than 3 / 4 of pot of oil). \n
+    STEP 2\n
+    To fry potatoes drained and cut up, in small portions, after 8 - 9 chips in one party.\n
+    STEP 3\n
+    After browning in the high temperature (after about for minute) to take chips out with skimmer and to put them to the paper towel. To fry the rest of the batch of potatoes in the same hot oil. \n
+    STEP 4\n
+    To heat up oil for the a bit lower temperature than initial (about 160 steps) and again to fry all batches of chips for about 4 minutes every party. To take out with skimmer, to sprinkle with salt and right away to give. \n
+
+    </string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">InCorrect!</string>
+    <string name="first_score_text">Correct!</string>
+    <string name="correct_toast_message">Correct!</string>
+    <string name="incorrect_toast_message">InCorrect!</string>
+    <string name="q1"> Smoking is healthy?</string>
+    <string name="q2">Is outdoor exercise healthy?</string>
+    <string name="q3">Exercising in the gym is good for your health</string>
+    <string name="q4">Healthy eating is important in life</string>
+    <string name="q5">You must always be positive</string>
+    <string name="q6">You need to eat a lot of vegetables and fruits</string>
+
+</resources>
